@@ -10,5 +10,4 @@ View with mobile device for AR experience.
 
 By [Tinkercad](https://www.tinkercad.com) and [&lt;model-viewer&gt;](https://modelviewer.dev/)
 
-* [Joyce1](https://christorng.github.io/3D/webar/?glb=Joyce1) - [source](https://www.tinkercad.com/things/fYLGxsoPkFq-test)
-* [Joyce2](https://christorng.github.io/3D/webar/?glb=Joyce2) - [source](https://www.tinkercad.com/things/fYLGxsoPkFq-test)
+* [Joyce1](https://christorng.github.io/3D/webar/?glb=Joyce1)/[Joyce2](https://christorng.github.io/3D/webar/?glb=Joyce2) - [source](https://www.tinkercad.com/things/fYLGxsoPkFq-test)
