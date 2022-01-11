@@ -11,4 +11,4 @@ View with mobile device for AR experience.
 By [Tinkercad](https://www.tinkercad.com) and [&lt;model-viewer&gt;](https://modelviewer.dev/)
 
 * [Joyce1](https://christorng.github.io/3D/webar/?glb=Joyce1)/[Joyce2](https://christorng.github.io/3D/webar/?glb=Joyce2) - [source](https://www.tinkercad.com/things/fYLGxsoPkFq-test)
-* [首飾](https://christorng.github.io/3D/webar/?glb=首飾) - [source](https://www.tinkercad.com/things/9iSqJiCOzPr-grand-wluff)
+* [ring](https://christorng.github.io/3D/webar/?glb=ring) - [source](https://www.tinkercad.com/things/9iSqJiCOzPr-grand-wluff)
