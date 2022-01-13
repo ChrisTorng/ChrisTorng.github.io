@@ -13,7 +13,7 @@ By [Tinkercad](https://www.tinkercad.com) and [&lt;model-viewer&gt;](https://mod
 
 ## [PianoVisualizer](https://github.com/ChrisTorng/PianoVisualizer)
 
-Minimal piano keyboard visualizer for your videos and livestreams! Forked from [wiwikuan/PianoVisualizer](https://github.com/wiwikuan/PianoVisualizer).
+Minimal piano keyboard visualizer for your videos and livestreams! Forked from [wiwikuan/PianoVisualizer](https://github.com/wiwikuan/PianoVisualizer) with my full instructions.
 
 ## [FSharpLearning](https://github.com/ChrisTorng/FSharpLearning)
 
