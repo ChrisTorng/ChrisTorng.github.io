@@ -86,7 +86,7 @@ TamperMonkey scripts for eBird site.
 
 ## [BlogPosts](https://github.com/ChrisTorng/BlogPosts)
 
-Some of my blog [Grounded till Now ↣ Infer the Future | ChrisTorng | Substack](https://christorng.substack.com/) Markdown source.
+Some of my blog [Grounded till Now ↣ Infer the Future](https://christorng.substack.com/) Markdown source.
 
 ## [DocsConverter](https://github.com/ChrisTorng/DocsConverter)
 
